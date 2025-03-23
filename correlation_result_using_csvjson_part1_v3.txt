@@ -1,0 +1,92 @@
+                                           Variable 1                                         Variable 2  Correlation
+0   What is your age? (Input in years,  e.g. 19 fo...  What time do you usually wake up? (Military ti...    -0.403723
+1   What time do you usually wake up? (Military ti...             How consistent is your sleep schedule?    -0.381090
+2   How would you describe your sleeping environment?   How comfortable is your usual sleeping position?     0.368258
+3   How would you rate your stress level? (Stresse...             How consistent is your sleep schedule?    -0.318023
+4   What time do you usually go to bed? (Military ...  What time do you usually wake up? (Military ti...    -0.307001
+5     How often do you exercise per week? (e.g., 0-7)    How would you describe your daily water intake?     0.296218
+6   What is your age? (Input in years,  e.g. 19 fo...  How often do you use electronic devices (phone...    -0.292319
+7    How comfortable is your usual sleeping position?             How consistent is your sleep schedule?     0.261429
+8   What is your age? (Input in years,  e.g. 19 fo...             How consistent is your sleep schedule?     0.253184
+9   What time do you usually go to bed? (Military ...   How comfortable is your usual sleeping position?     0.241196
+10  How many times do you wake up during the night...             How consistent is your sleep schedule?    -0.231376
+11  What time do you usually go to bed? (Military ...             How consistent is your sleep schedule?     0.222133
+12  What is your age? (Input in years,  e.g. 19 fo...  What time do you usually go to bed? (Military ...     0.214687
+13                            Do you consume alcohol?  What time do you usually go to bed? (Military ...    -0.211415
+14  How many times do you wake up during the night...   How comfortable is your usual sleeping position?    -0.210827
+15  What is your age? (Input in years,  e.g. 19 fo...  How many times do you wake up during the night...     0.206996
+16    How often do you exercise per week? (e.g., 0-7)  How would you rate your stress level? (Stresse...    -0.205323
+17  What time do you usually wake up? (Military ti...  How often do you use electronic devices (phone...     0.202691
+18    How often do you exercise per week? (e.g., 0-7)             How consistent is your sleep schedule?     0.201444
+19    How often do you exercise per week? (e.g., 0-7)  How often do you use electronic devices (phone...    -0.193357
+20  What time do you usually go to bed? (Military ...  How often do you use electronic devices (phone...    -0.192613
+21  What time do you usually wake up? (Military ti...    How would you describe your daily water intake?    -0.191508
+22  Do you consume caffeine (coffee, tea, energy d...   How comfortable is your usual sleeping position?    -0.191013
+23    How would you describe your daily water intake?             How consistent is your sleep schedule?     0.188878
+24  What is your age? (Input in years,  e.g. 19 fo...  On average, how many hours do you sleep per ni...    -0.188756
+25  What time do you usually go to bed? (Military ...  How would you rate your stress level? (Stresse...    -0.184717
+26  On average, how many hours do you sleep per ni...    How often do you exercise per week? (e.g., 0-7)     0.184496
+27  On average, how many hours do you sleep per ni...   How comfortable is your usual sleeping position?    -0.180814
+28  Do you consume caffeine (coffee, tea, energy d...                            Do you consume alcohol?     0.176985
+29  What is your age? (Input in years,  e.g. 19 fo...  How would you describe your sleeping environment?     0.174797
+30  How would you describe your sleeping environment?    How would you describe your daily water intake?    -0.170587
+31  What time do you usually wake up? (Military ti...  How many times do you wake up during the night...    -0.154489
+32  How often do you use electronic devices (phone...    How would you describe your daily water intake?    -0.153764
+33  What is your age? (Input in years,  e.g. 19 fo...  How would you rate your stress level? (Stresse...    -0.149835
+34  On average, how many hours do you sleep per ni...  How would you rate your stress level? (Stresse...    -0.143608
+35  What time do you usually wake up? (Military ti...  How would you rate your stress level? (Stresse...     0.139977
+36  On average, how many hours do you sleep per ni...    How would you describe your daily water intake?     0.137416
+37  How often do you use electronic devices (phone...             How consistent is your sleep schedule?    -0.135214
+38  How would you rate your stress level? (Stresse...  How often do you use electronic devices (phone...     0.132369
+39                            Do you consume alcohol?  How would you rate your stress level? (Stresse...    -0.127275
+40  On average, how many hours do you sleep per ni...  What time do you usually go to bed? (Military ...     0.119294
+41                            Do you consume alcohol?  How many times do you wake up during the night...    -0.116472
+42  What time do you usually wake up? (Military ti...   How comfortable is your usual sleeping position?    -0.109671
+43  How would you describe your sleeping environment?  How many times do you wake up during the night...    -0.106782
+44  How would you describe your sleeping environment?    How often do you exercise per week? (e.g., 0-7)    -0.106615
+45                            Do you consume alcohol?    How often do you exercise per week? (e.g., 0-7)     0.095362
+46  Do you consume caffeine (coffee, tea, energy d...             How consistent is your sleep schedule?    -0.093659
+47  Do you consume caffeine (coffee, tea, energy d...  How often do you use electronic devices (phone...     0.092258
+48  How would you describe your sleeping environment?  What time do you usually wake up? (Military ti...    -0.090461
+49  How many times do you wake up during the night...  How would you rate your stress level? (Stresse...    -0.090146
+50  Do you consume caffeine (coffee, tea, energy d...  How would you describe your sleeping environment?     0.089072
+51                            Do you consume alcohol?  On average, how many hours do you sleep per ni...    -0.083429
+52                            Do you consume alcohol?  How often do you use electronic devices (phone...    -0.079898
+53  On average, how many hours do you sleep per ni...  How many times do you wake up during the night...    -0.074955
+54    How would you describe your daily water intake?   How comfortable is your usual sleeping position?    -0.073755
+55                            Do you consume alcohol?    How would you describe your daily water intake?     0.071023
+56  Do you consume caffeine (coffee, tea, energy d...  On average, how many hours do you sleep per ni...     0.068990
+57  How would you describe your sleeping environment?  On average, how many hours do you sleep per ni...    -0.067993
+58  Do you consume caffeine (coffee, tea, energy d...  How many times do you wake up during the night...     0.067439
+59  How would you describe your sleeping environment?  What time do you usually go to bed? (Military ...     0.066056
+60  How many times do you wake up during the night...    How would you describe your daily water intake?     0.064552
+61  What is your age? (Input in years,  e.g. 19 fo...    How would you describe your daily water intake?     0.064301
+62  How often do you use electronic devices (phone...   How comfortable is your usual sleeping position?    -0.060284
+63  What is your age? (Input in years,  e.g. 19 fo...                            Do you consume alcohol?    -0.060226
+64  How many times do you wake up during the night...  How often do you use electronic devices (phone...    -0.059131
+65  Do you consume caffeine (coffee, tea, energy d...  What time do you usually go to bed? (Military ...    -0.058649
+66  What is your age? (Input in years,  e.g. 19 fo...  Do you consume caffeine (coffee, tea, energy d...     0.057614
+67  How would you describe your sleeping environment?  How often do you use electronic devices (phone...     0.056478
+68  On average, how many hours do you sleep per ni...  What time do you usually wake up? (Military ti...    -0.046049
+69  On average, how many hours do you sleep per ni...             How consistent is your sleep schedule?     0.045935
+70  Do you consume caffeine (coffee, tea, energy d...  How would you rate your stress level? (Stresse...    -0.044454
+71  How would you describe your sleeping environment?             How consistent is your sleep schedule?     0.042809
+72  What time do you usually go to bed? (Military ...    How would you describe your daily water intake?    -0.038873
+73  What time do you usually go to bed? (Military ...    How often do you exercise per week? (e.g., 0-7)    -0.038634
+74  Do you consume caffeine (coffee, tea, energy d...  What time do you usually wake up? (Military ti...    -0.035249
+75                            Do you consume alcohol?   How comfortable is your usual sleeping position?    -0.035180
+76  Do you consume caffeine (coffee, tea, energy d...    How often do you exercise per week? (e.g., 0-7)     0.034932
+77                            Do you consume alcohol?             How consistent is your sleep schedule?    -0.031852
+78  What time do you usually wake up? (Military ti...    How often do you exercise per week? (e.g., 0-7)    -0.031437
+79  Do you consume caffeine (coffee, tea, energy d...    How would you describe your daily water intake?    -0.027778
+80  On average, how many hours do you sleep per ni...  How often do you use electronic devices (phone...     0.027183
+81  How would you rate your stress level? (Stresse...   How comfortable is your usual sleeping position?     0.026652
+82  How would you describe your sleeping environment?  How would you rate your stress level? (Stresse...     0.023541
+83  What time do you usually go to bed? (Military ...  How many times do you wake up during the night...    -0.011542
+84  What is your age? (Input in years,  e.g. 19 fo...    How often do you exercise per week? (e.g., 0-7)     0.009566
+85    How often do you exercise per week? (e.g., 0-7)   How comfortable is your usual sleeping position?    -0.008970
+86  How many times do you wake up during the night...    How often do you exercise per week? (e.g., 0-7)     0.007962
+87                            Do you consume alcohol?  How would you describe your sleeping environment?     0.007013
+88  What is your age? (Input in years,  e.g. 19 fo...   How comfortable is your usual sleeping position?     0.005699
+89  How would you rate your stress level? (Stresse...    How would you describe your daily water intake?    -0.005242
+90                            Do you consume alcohol?  What time do you usually wake up? (Military ti...    -0.004237
