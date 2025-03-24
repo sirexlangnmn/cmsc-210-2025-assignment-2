@@ -2,16 +2,16 @@ import pandas as pd
 import json
 
 # Load JSON file
-file_path = "csvjson_part1_v3.json"
+file_path = "cleanData.json"
 with open(file_path, "r", encoding="utf-8") as file:
     data = json.load(file)
 
 # Define the numeric attributes we want to keep
 numeric_columns = [
     "What is your age? (Input in years,  e.g. 19 for 19y/o)",
-    "Do you consume caffeine (coffee, tea, energy drinks)?",
+    # "Do you consume caffeine (coffee, tea, energy drinks)?",
     # "Do you smoke?", # If a column has the same value for every row, its standard deviation is zero, making correlation undefined.
-    "Do you consume alcohol?",
+    # "Do you consume alcohol?",
     "How would you describe your sleeping environment?",
     "On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )",
     "What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)",
